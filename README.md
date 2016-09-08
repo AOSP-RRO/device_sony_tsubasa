@@ -1,6 +1,7 @@
 Sony Xperia V
 =============
 
+
 The Sony Xperia V (codenamed _"Tsubasa"_) is a mid-range smartphone from Sony Mobile.
 
 It was announced on 29 August 2012.
